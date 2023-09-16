@@ -1,0 +1,11 @@
+{
+	"name": "@wearevero/init",
+	"description": "Veronqiue CodeIgniter 3 kick starter",
+	"scripts": {
+		"pretty": "prettier . --write"
+	},
+	"devDependencies": {
+		"@prettier/plugin-php": "^0.20.1",
+		"prettier": "^3.0.3"
+	}
+}
